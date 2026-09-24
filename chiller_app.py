@@ -12,7 +12,7 @@ import streamlit as st
 import chiller_core as cc
 
 st.set_page_config(page_title="Electric Chiller Simulation Ver-1", page_icon="❄️", layout="wide")
-st.title("❄️ Electric Water-Cooled Chiller — Simulation")
+st.title("❄️ Electric Water-Cooled Chiller — Simulation  Ver-1")
 st.caption("Evaporator capacity → COP from vendor part-load table (interpolated) → heat rejection. "
            "COP corrected 1.35 %/K around CHWS 6.7 °C and CWS 29.4 °C design. Prepared by KAUNG HTAT NYUNT")
 
